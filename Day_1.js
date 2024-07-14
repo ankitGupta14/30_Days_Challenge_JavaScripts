@@ -60,3 +60,10 @@ console.log(ChaiaurCode)
 const ChaiisHot = "Chai is Ready "
 console.log(ChaiisHot)
 ChaiisHot = "Chai is not Ready" // Error = Assignment to constant variable. 
+
+// Feature Request:
+
+// Variable Types Console Log: Write a script that declares variables of different data types and logs both the value and type of each variable to the console.
+const Request = "js with fun"
+
+// Reassignment Demo: Create a script that demonstrates the difference in behavior between let and const when it comes to reassignment.
